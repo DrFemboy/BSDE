@@ -63,7 +63,7 @@ class MainWindow(QMainWindow):
         QMessageBox.about(
             self,
             "About BSDE Text Editor",
-            "BSDE Text Editor\nVersion 1.0\n\nA simple text editor built with PyQt6."
+            "BSDE Text Editor\nVersion 1.0\n\nA simple text editor built with PyQt6.\nCreated with love by BlackSystem\n:3"
         )
 
     def change_font_size(self, size):
